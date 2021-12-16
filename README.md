@@ -15,8 +15,8 @@ An output.txt file will be created, which includes header of the protein; helix,
 <br>
 
 **Command Line Arguments**
-- Arg 1 (tp53.txt) : text file including protein query sequence of any length in FASTA format. 
-- Arg 2 (gt-tp53.txt) : text file including secondary structure annotation of corresponding protein.
+- *Arg 1 (tp53.txt) :* text file including protein query sequence of any length in FASTA format. 
+- *Arg 2 (gt-tp53.txt) :* text file including secondary structure annotation of corresponding protein.
 
 **Requirements** 
 - numpy==1.21.4
