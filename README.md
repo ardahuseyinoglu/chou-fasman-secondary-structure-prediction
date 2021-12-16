@@ -11,7 +11,7 @@ Requirements
 Output: <br>
 An output.txt file will be created, which includes header of the protein; helix, strand, turn assignments (initial extended hits) and final prediction.
 
-<br>
+
 2. If you have the ground truth data of the sequence of the second structural elements of a given amino acid sequence, you can provide this data as a second command line argument to view the test results:<br>
 `python chou-fasman.py tp53.txt gt-tp53.txt`
 
