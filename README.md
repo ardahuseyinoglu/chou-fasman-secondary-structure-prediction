@@ -18,7 +18,7 @@ An output.txt file will be created, which includes header of the protein; helix,
 Output:<br>
 An output.txt file will be created, which includes header of the protein; helix, strand, turn assignments (initial extended hits) and final prediction. Also confusion matrix; precision, recall, accuracy, and F1-score metrics, for each SS element and overall accuracy score will be displayed on the print screen.
 
-
+<br><br>
 <p align="center">
   <img src="/images/out.PNG">
 </p>
